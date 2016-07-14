@@ -1,4 +1,4 @@
-# scipy2016_sassie_poster
+# SciPy 2016 SASSIE Poster
 ## Using Python to create an Integrated Modular Framework for Atomistic Modeling of Molecular Structures
 Presented at SciPy 2016.  The design was adapted from the poster designed by Felix Breuer (http://blog.felixbreuer.net/2010/10/24/poster.html).
 
