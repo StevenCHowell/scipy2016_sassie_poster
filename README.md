@@ -4,6 +4,13 @@ Presented at SciPy 2016.  The design was adapted from the poster designed by Fel
 
 ### Steven C. Howell, Emre Brooks, Joseph E. Curtis
 
+*this will be bold*
+_this will be underlined_
+# This is a title
+- this may be a bullet...?
+- again?
+- 
+
 ## Abstract
 Structure models provide information essential to understanding the biological function of molecules.
 Numerous computational applications, requiring various levels of expertise, have been developed for modeling biomolecular structures.
